@@ -10,4 +10,4 @@ I'm fed up with reading news articles about Donald Trump. But they're hard to av
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag TrumpToDuck.crx into the page that appears.
